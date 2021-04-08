@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Blogs：https://www.notion.so/Yuflyr-cb81060ac02a4b55b583376b9cb1c958
+//### Blogs：https://www.notion.so/Yuflyr-cb81060ac02a4b55b583376b9cb1c958
 
 <!--
 **Gosickr/Gosickr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
